@@ -5,7 +5,7 @@
   "keywords": "sensor, dht11, esp32, stem, bn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/BN_DHT11.git"
+    "url": "https://github.com/nvTien-Hardware/BN_DHT11.git"
   },
   "authors": [
     {
