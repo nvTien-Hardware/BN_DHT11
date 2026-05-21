@@ -20,4 +20,4 @@ private:
   bool read(bool force = false);
 };
 
-#endif // Đảm bảo dòng này nằm ở cuối cùng file
+#endif
